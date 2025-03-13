@@ -1,5 +1,5 @@
 {
-    "name": "ROS2 - Humble",
+    "name": "ROS2 - Jazzy",
     "privileged": true,
     "remoteUser": "ros2",
     "build": {
