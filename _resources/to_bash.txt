@@ -1,6 +1,3 @@
-source /opt/ros/humble/setup.bash
-source /usr/share/colcon_cd/function/colcon_cd.sh 
-export _colcon_cd_root=/opt/ros/humble/
-source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash
+source /opt/ros/noetic/setup.bash
 export DISPLAY=:1
 export LIBGL_ALWAYS_INDIRECT=0

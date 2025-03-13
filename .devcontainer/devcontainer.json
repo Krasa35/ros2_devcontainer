@@ -1,5 +1,5 @@
 {
-    "name": "ROS2 - Humble",
+    "name": "ROS - Noetic",
     "privileged": true,
     "remoteUser": "ros2",
     "build": {
